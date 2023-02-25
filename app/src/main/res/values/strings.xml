@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bnet</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_text">ГДЕ КУПИТЬ</string>
+    <string name="list">Список</string>
+    <string name="no_results">Ничего не найдено</string>
+</resources>
